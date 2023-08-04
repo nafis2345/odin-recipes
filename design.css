@@ -41,3 +41,30 @@
     float:left;
     padding: 40px;
 }
+
+.photo1 {
+    width: 500px;
+    height:auto;
+    border-style:groove;
+    border-width:15px ;
+    border-color:black;
+    
+}
+
+.headings-taco{
+    color:white;
+    background-color:black;
+    text-align:center;
+    text-decoration:underline;
+    text-decoration-color: white;
+    font-size:30px;
+
+}
+
+.paragraph1,
+.listed-order1{
+    background-color:lightcyan;
+    font-weight: 400;
+    text-decoration: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

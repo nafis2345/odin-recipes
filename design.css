@@ -1,0 +1,43 @@
+.body.heading {
+    font-family:"Lucida Console", "Courier New", monospace;
+    font-weight: 300;
+    text-align: center;
+    text-decoration: underline;
+    border-style: double;
+    border-width: 5px;
+}
+
+.wholepage {
+    background-color: peachpuff;
+}
+
+.body.list{
+    font-style: italic;
+    font-weight: bold;
+    list-style-type: none;
+    line-height: 25px;
+}
+
+.body.url{
+    color:black;
+    text-decoration: underline;
+    text-decoration-color:black;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.images{
+    width:500px;
+    height:500px;
+    border-style:groove;
+    border-width: 15px;
+    border-color:black;
+}
+
+.one,
+.two,
+.three {
+    text-align: center;
+    float:left;
+    padding: 40px;
+}
